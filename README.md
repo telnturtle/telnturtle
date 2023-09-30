@@ -1,34 +1,27 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&desc=I%20am%20a%20Frontend%20Engineer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20from%20Korea.&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=81&descSize=27&fontAlignY=42&descAlignY=60" title="Profile Views">
 
+<br>
 <img src="https://komarev.com/ghpvc/?username=telnturtle&style=flat-square&color=blue" title="Profile Views" alt="Profile Views">
 </div>
-<br>
+
 <br>
 
 <div align="center">
-<samp>
-Actively seeking employment!
-</samp>
-</div>
-
-<br/>
 About me:
 
 ↓↓↓
-<br/>
-<br/>
-<br/>
+
+</div>
+
+<br>
+<br>
 
 # Eom Hwiyong
 
-<!-- ![Profile Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftelnturtle%2Ftelnturtle&count_bg=%233178C6&title_bg=%23666666&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true) -->
-
-<!-- https://hits.seeyoufarm.com -->
-
 ### 0. Contact💬
 
-[![Email](https://img.shields.io/badge/hwiyong.eom@gmail-E6E6E6?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:hwiyong.eom@gmail.com 'Email')
+[![Email](https://img.shields.io/badge/eom.hwiyong_@_outlook_com-ECECEC?style=for-the-badge&logo=microsoft-outlook&logoColor=0B58BD)](mailto:eom.hwiyong@outlook.com 'Email')
 [![Medium Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@telnturtle 'Medium Blog')
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/telnturtle 'GitHub Profile')
@@ -36,7 +29,20 @@ About me:
 
 [![Codewars Profile](https://www.codewars.com/users/telnturtle/badges/large)](https://www.codewars.com/users/telnturtle 'Codewars Profile')
 
-### 1. Employment History and Freelance Projects🔭
+### 1. Career🔭
+
+#### A Legal Tech Startup Company (2023 - Current)
+
+- Position: Frontend Engineer
+- Responsibilities:
+  - Developed a React-based web application to efficiently handle and process large-scale datasets, enhancing data analysis and visualization for customers.
+  - Provided a user-centric page that automates recurring schedules, and converted schedules and datetime in both directions.
+  - Achieved efficient and clean data fetching and cache management.
+  - Redesigned relational database and discussed migration, ensuring effective handling and transfer of data for improved system performance.
+  - Automated deployment and notifications processes.
+  - Actively incorporated and analyzed user feedback to continuously improve and maintain the web application's performance.
+  - Collaborated with other teams to manage project scopes, timelines, and contributed to successful project deliveries.
+  - Explored and implemented cutting-edge frontend development trends and technologies to enhance application scalability.
 
 #### Freelance Project: Porting PC Program to Python for Microcontroller Communication (2022)
 
@@ -48,9 +54,11 @@ About me:
 - Integrated and compiled a C-based library for enhanced performance and functionality.
 - Implemented efficient data communication protocols and error handling mechanisms.
 
-#### Open Source Consulting, Subsid. of LG CNS (2020 - 2021)
+#### Open Source Consulting, Subsid. of LG CNS as of 2019 (2018 - 2021)
 
-- Position: Frontend Engineer, full-time employee
+- Position:
+  - Frontend Engineer, full-time employee (2020 - 2021)
+  - Frontend Engineer, Skilled Industrial Personnel (substitute military service) (2018 - 2020)
 - Responsibilities:
   - Developed user-friendly web applications using HTML, CSS, JavaScript and TypeScript.
   - Collaborated with designers and backend developers to implement pixel-perfect UI designs.
@@ -65,12 +73,6 @@ About me:
   - Worked in bi-weekly sprints to ensure timely delivery and effective project management.
   - Developed a template-based generator for B2B solutions, enabling rapid creation of customized experiences.
 
-#### Open Source Consulting, Subsid. of LG CNS as of 2019, Skilled Industrial Personnel (2018 - 2020)
-
-- Position: Frontend Engineer (substitute military service)
-- Responsibilities:
-  - Same as above
-
 ### 2. Engineering Stack🛠
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=telnturtle&size_weight=0.16&count_weight=0.84&layout=compact&langs_count=12&hide=roff)](https://github.com/anuraghazra/github-readme-stats)
@@ -80,24 +82,29 @@ Skilled in🌈:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black 'JavaScript')
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org 'TypeScript')
 [![React](https://img.shields.io/badge/React-23272F?style=for-the-badge&logo=react&logoColor=149ECA)](https://react.dev 'React')
-[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org 'Redux')
+[![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org 'Redux Toolkit')
+[![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/rtk-query/overview 'RTK Query')
 ![HTML](https://img.shields.io/badge/HTML-F16524?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-2465F1?style=for-the-badge&logo=css3&logoColor=white)
 [![MUI](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com 'MUI')
 [![React Table](https://img.shields.io/badge/React_Table-15B5A9?style=for-the-badge&logo=reacttable&logoColor=white)](https://tanstack.com/table/v8 'React Table')
+[![Emotion](https://img.shields.io/badge/emotion-C43BAD?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAMAAADW3miqAAACi1BMVEVHcEwoKSVQLzQwPzE+Lz0mNyXSaMGaX5LVacOvW6jGZLezYaZaUFpZRFOmYpqkb5q7b62oZJ2kb7BbPFxwQG+EWn+oYp2veKXJd7tNR05ubpFORE6BU4KWVothPF6PUIZ4Un2PcKp8VnSMW2xtQ2iVUoW+ZK5coMNoPmluQG+OcDmzUpq0X6a2c6t3dqQ6MTdbY3+yX6VpPm5gPmGfVpWWU42jU5Y6OTq6fK/AMXSUZ55lcpQyNDOPTolhO1XPgMGRUo1hP2aiaKedr3LSacHTasLVasPWa8T/zCzLZrqZUpT9yCuaVZvPar/vvCu/Y7T/zyqSUJLYbMZvPnKlWaG3Xq9A0+vVcsXWeMaxY6abTo3VZsv/xyPbryr/ziOniDD/1i13QXg3MDLJbbq4GpQ3m7jhtSv4wimcXYCaHnnltirFE4xAutZLq8iERZ/aZLw+iqrAaaeHRoOtjE6TYJowkbE/iZeyjTDUpCZHNivKY8XFdjC+HZhJY4rdeMyCZZp8f65/XJGgVprcZ8W7bLTIoSmXSY2yoExGy+RmiG6iXZs6psNyRWt+ant2VH3ZpTV9g1JwUUiJYVfNwEO5kG6uXp29aixSQU2FNJp6rH2yF4mVmliIVplukblkkLWBbKJUgoCTfbe3bJOsZ4qPUYhgjqhAxdw+t9Du4LL/zTKreGXGhYlda5PdvDTnxzCqlj62L3SYbFWtI5heZV9eSX9mUEeSqGFnp5B/bkba49tHlZV9a1pedIzhbcjUaMZsXVeRikLMr3eEMnmKVIDoqi+NZZurmYn/112XRW3Oe6HBliiiRSd/nX6iSSTdn1o3gIhFqbVTrKa7VmGIbl3NjU7PiLNudYHGlZvRpbxyhbKnAAAAonRSTlMA/g4UBAj7Avv+/dUnHpB1157+leNKu6z6M8p5goH73ab+O/5eaOf+wvz+/vTN90b+ueuy0ff8orQoxP7fvd705M36/v////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////6CIQ+cAAADnUlEQVQ4y22UZXfbWBCGrx2DZMcNJw1zmjRlWmaBJUtmxjjmOHHDzMzMZdoypD3FZWbGn7Ny9mQrZTPSh/vhOe/MvPfOAMCOYum+fdLUuAIBAGKwY4jBLkKLMx/tiY/j70wJQKxKK0IQRCTCcDo+ZScxMRBm6TGUgdAop/UkCP9HiUGsVKIxYNgmhCIiyLQ/ZhslBrISHOrXwMRzzBS/nQKpmAhTXaYomMCjCBql9gu5QikEhKK2ixsaijIwWtHSUMi0iy3FdE9DhMT2jb9litLAOMoEYh5EdsdyEh7GIMmS7aZz4dan4xqVh8bMiHZ3LpHAhgRSHKLJ9h/vXLkfqh/XeCyoySTqTntNJWNXJcW0S/N1VY9Xw52h4ULYAmvNKP5G+jGO1GFt+8be39ciYa/X+/WNDdVnBO2BzHEgT/YfJQYJWril9VHXeqfXe0/Z4LgUDKIWkTkNCPns7pAT/qoHK22hzvWZO0rXw8srhEXS/SLXp2IkWLX48M+23+7fm3o0M/dgemXJAnencX0qaA++8/QJ78nT8tXv7de+bGv7aFwPMzVx7oVf0thV/sdff5+MrNntX137ZKQhqIG3eQnEx2BXx3pneHXNLpfb7dcrHIWFFs6tMA+uSGdo+NUbjjwOKK4r5AqF3D8//yafW1JMso60hsKRX5QKh0O5Ce2dO8KGmFOpW+fWhyI/31ZXqJl/E8pxFzEpnmc7eiTzqO64+6cFp7JjuWP5c7lC3TLpdieLWVLCdACS3WXkXKta0fHDd8tKuXNmUqcrLUvidleqK6uf7mq+G2ByVVQERg5pyuuTYpJkbKmkt5LrbzV11TbNtgYU/qGxJl/NBeI4940L+MVv77k6Udvsm/3W5XK1NPsmjO/uGYznmpn9RY3ROHrV13xXrXQoW8eaqkeNxhpVSQHrocRkZ+VlnK02Vp9XyuVytd/lY4R6G/tzD7LmWJaSlZc73HdldGLEyXjkGKs+02g9YSAkqUVbFD8jkVAZ9BQ53FPzjJEKfFybbyUNl2gc+yAxY8v2l3shCKJVespK1p5yyofON1qp9puLNgTLP5C9VdJLBy4M0CiOGCiSfP+2fbbPShG2xYW6gfye1wX/CgnAwZyzg9Hhxgk9efrU0DRJSbAP6xqQxHM5vBc2IWbnvMo7dIaIDjdG68mp90hShdO2i3Xt5yZ5vMr0KCUGmZW8yld6TzJbAsGI/tM9JBzdLMRAYl8lA2UCwT/gch17i318TwAAAABJRU5ErkJggg==)](https://emotion.sh 'Emotion')
 [![Sass](https://img.shields.io/badge/Sass-CE659A?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com 'Sass')
 [![Prettier](https://img.shields.io/badge/prettier-334650?style=for-the-badge&logo=prettier&logoColor=F7BA3E)](https://prettier.io 'Prettier')
+[![Yarn Classic](https://img.shields.io/badge/Yarn_Classic-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white&labelColor=)](https://classic.yarnpkg.com/lang/en 'Yarn Classic')
 [![Git](https://img.shields.io/badge/GIT-F0F0E8?style=for-the-badge&logo=git&logoColor=F54D27)](https://git-scm.com 'Git')
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFE58F)](https://www.python.org 'Python')
 
 Familiar with📚:
 
 [![Ant Design](https://img.shields.io/badge/Ant_Design-1290FF?style=for-the-badge&logo=antdesign&logoColor=F2FFFF)](https://ant.design 'Ant Design')
-[![Emotion](https://img.shields.io/badge/emotion-C43BAD?style=for-the-badge)](https://emotion.sh 'Emotion')
+[![styled-components](https://img.shields.io/badge/styled--components-BF4F74?logo=styled-components&style=for-the-badge&logoColor=white)](https://styled-components.com 'styled-components')
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com 'TailwindCSS')
 [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)](https://reactrouter.com 'React Router')
 [![Redux-Saga](https://img.shields.io/badge/Redux--Saga-8FB682?style=for-the-badge&logo=reduxsaga&logoColor=white)](https://reactrouter.com 'Redux Saga')
 [![Stomp.JS](https://img.shields.io/badge/Stomp.JS-6F777D?style=for-the-badge)](https://github.com/stomp-js/stompjs 'Stomp.JS')
+[![nginx](https://img.shields.io/badge/nginx-009900?style=for-the-badge&logo=nginx)](https://nginx.org 'nginx')
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev 'Vite')
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white 'C')
 ![Java](https://img.shields.io/badge/Java-E87815?style=for-the-badge&logo=openjdk&logoColor=5382A1 'Java')
 [![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js&logoColor=43853D)](https://nodejs.org 'Node.js')
@@ -106,9 +113,10 @@ Familiar with📚:
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6CB52D?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot 'Spring Boot')
 [![Confluence](https://img.shields.io/badge/Confluence-2484FF?style=for-the-badge&logo=php&logoColor=white)](https://www.atlassian.com/ko/software/confluence 'Confluence')
 [![Jira](https://img.shields.io/badge/Jira-0065FF?style=for-the-badge&logo=Jira&logoColor=white)](https://www.atlassian.com/ko/software/jira 'Jira')
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-24292F?style=for-the-badge&logo=github-actions&logoColor=F6F8FA 'GitHub Actions')](https://docs.github.com/en/actions 'GitHub Actions')
 [![DigitalOcean Droplet](https://img.shields.io/badge/DigitalOcean-0069FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)](https://www.digitalocean.com/products/droplets 'Digital Ocean Droplet')
 [![MongoDB](https://img.shields.io/badge/MongoDB-10AA50?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com 'MongoDB')
-[![MySQL](https://img.shields.io/badge/MySQL-3E6293?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mysql.com 'MySQL')
+[![MySQL](https://img.shields.io/badge/MySQL-3E6293?style=for-the-badge&logo=mysql&logoColor=F7C891)](https://www.mysql.com 'MySQL')
 [![Kakao Maps](https://img.shields.io/badge/Kakao_Maps_API-FFCD36?style=for-the-badge&logo=kakao&logoColor=292929)](https://apis.map.kakao.com/web 'Kakao Maps API')
 [![Notion API](https://img.shields.io/badge/Notion_API-000000?style=for-the-badge&logo=notion&logoColor=white)](https://developers.notion.com 'Notion API')
 [![Slack API](https://img.shields.io/badge/Slack_API-4A154B?style=for-the-badge&logo=slack&logoColor=EEB32A)](https://api.slack.com/apis 'Slack API')
@@ -120,7 +128,7 @@ Exploring🌱:
 
 [![ESLint](https://img.shields.io/badge/ESLint-8080F2?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org 'ESLint')
 [![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)](https://storybook.js.org 'Storybook')
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev 'Vite')
+[![pnpm](https://img.shields.io/badge/pnpm-242A36?style=for-the-badge&logo=pnpm)](https://pnpm.io 'pnpm')
 [![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)](https://vitest.dev 'Vitest')
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io 'Jest')
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org 'Next.js')
@@ -128,7 +136,6 @@ Exploring🌱:
 [![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)](https://nuxt.com 'Nuxt.js')
 [![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)](https://react-hook-form.com 'React Hook Form')
 [![React Query](https://img.shields.io/badge/React_Query-EF4444?style=for-the-badge&logo=reactquery&logoColor=white)](https://tanstack.com/query 'React Query')
-[![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org 'Redux Toolkit')
 [![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)](https://github.com/pmndrs/zustand 'Zustand')
 [![Unity](https://img.shields.io/badge/Unity-141414?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com 'Unity')
 
