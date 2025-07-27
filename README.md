@@ -30,20 +30,20 @@ Desktop Program Porting and Microcontroller Communication, *2022*
 
 ```ts
 {
-  degree: 'Bachelor of Engineering in Computer Science',
+  degree: `Bachelor of Engineering in Computer Science`,
   course: [
-    'Data Structures and Algorithms',
-    'Object-Oriented Programming',
-    'Database Systems',
-    'Web Development',
-    'Operating Systems',
-    'Embedded Systems',
+    `Data Structures and Algorithms`,
+    `Artificial Intelligence`,
+    `Database Systems`,
+    `Web Development`,
+    `Operating Systems`,
+    `Embedded Systems`,
   ],
   year: 2022,
 }
 ```
 
-#### 🏢 Open Source Consulting, Subsid. of LG CNS as of 2019 (2018 - 2021)
+#### 🏢 Open Source Consulting, Subsid. of LG CNS as of 2019
 
 Frontend Engineer, *2018 - 2021, "Skilled Industrial Personnel" (military service)*
 
@@ -63,46 +63,51 @@ Frontend Engineer, *2018 - 2021, "Skilled Industrial Personnel" (military servic
 #### 💡 Personal Projects
 
 ```ts
-{
+let personalProjects = {
   yachtDice: {
-    tags: ['3d', 'animation', 'Redux Toolkit', 'mobile'],
-    website: 'https://telnturtle.github.io/yachtdice',
-    github: 'https://github.com/telnturtle/yachtdice',
+    tags: '3d,animation,Redux Toolkit,mobile,game'.split(','),
+    website: `https://telnturtle.github.io/yachtdice`,
+    github: `https://github.com/telnturtle/yachtdice`,
   },
   unixTimestampCalculator: {
-    tags: ['timestamp', 'tool', 'simple'],
-    website: 'https://telnturtle.github.io/utcalc/',
-    github: 'https://github.com/telnturtle/utcalc',
+    tags: `timestamp,tool,simple`.split(','),
+    website: `https://telnturtle.github.io/utcalc/`,
+    github: `https://github.com/telnturtle/utcalc`,
   },
   uuidV4Maker: {
-    tags: ['timestamp', 'tool', 'simple'],
-    website: 'https://telnturtle.github.io/uuid4/',
-    github: 'https://github.com/telnturtle/uuid4',
+    tags: `timestamp,tool,simple`.split(','),
+    website: `https://telnturtle.github.io/uuid4/`,
+    github: `https://github.com/telnturtle/uuid4`,
   },
   natDuSi: {
-    tags: ['clock', 'wallpaper', 'simple'],
-    website: 'https://telnturtle.github.io/nat-du-si/',
-    github: 'https://github.com/telnturtle/nat-du-si',
+    tags: `clock,wallpaper,simple`.split(','),
+    website: `https://telnturtle.github.io/nat-du-si/`,
+    github: `https://github.com/telnturtle/nat-du-si`,
   },
   natDuSi: {
-    tags: ['clock', 'wallpaper', 'simple'],
-    website: 'https://telnturtle.github.io/nat-du-si/',
-    github: 'https://github.com/telnturtle/nat-du-si',
+    tags: `clock,wallpaper,simple`.split(','),
+    website: `https://telnturtle.github.io/nat-du-si/`,
+    github: `https://github.com/telnturtle/nat-du-si`,
   },
   sha256Encoder: {
-    tags: ['sha256', 'tool', 'simple'],
-    website: 'https://telnturtle.github.io/sha256-encoder/',
-    github: 'https://github.com/telnturtle/sha256-encoder',
+    tags: `sha256,tool,simple`.split(','),
+    website: `https://telnturtle.github.io/sha256-encoder/`,
+    github: `https://github.com/telnturtle/sha256-encoder`,
   },
   fontGallery: {
-    tags: ['font', 'simple'],
-    website: 'https://telnturtle.github.io/font-gallery/',
-    github: 'https://github.com/telnturtle/font-gallery',
+    tags: `font,simple`.split(','),
+    website: `https://telnturtle.github.io/font-gallery/`,
+    github: `https://github.com/telnturtle/font-gallery`,
   },
   cheatSheet: {
-    cheatSheet: 'https://en.wikipedia.org/wiki/Cheat_sheet'
-    website: 'https://github.com/telnturtle/cheat-sheet-fe',
+    cheatSheet: `https://en.wikipedia.org/wiki/Cheat_sheet`'
+    website: `https://github.com/telnturtle/cheat-sheet-fe`,
   },
+  minesweeper: {
+    tags: `game`.split(','),
+    website: `https://telnturtle.github.io/minesweeper`,
+    github: `https://github.com/telnturtle/minesweeper`,
+  }
   miscellaneous: ['ViEco', 'Socket Programming', 'minesweeper', 'Weather Forecaster Chatbot', 'online bookstore', 'device driver', 'SIC assembler', 'Telegram Log Compressor']
 }
 ```
@@ -128,6 +133,8 @@ Now:
 - Ubuntu
 - KakaoTalk API
 - ChatGPT
+- uv (Python)
+- Cursor
 
 Past:
 - MUI
@@ -152,28 +159,26 @@ Future:
 - Electron
 - WebAssembly
 - pnpm
-- uv (Python package manager)
 - Vike
 - Jotai
 - Gemini, Claude
-- Cursor
 
 
 #### 📜 Certificates
 
 - Engineer of Information Processing - Human Resources Development Service of Korea, *2022*
-- ~~Certified SAFe 5 Scrum Master - Scaled Agile Inc. (Expired), *2020*~~
+- ~~Certified SAFe 5 Scrum Master - Scaled Agile Inc., *2020 - 2022 (Expired)*~~
 
 #### 📞 Contact
 
 ```ts
 let contact = {
   email:          `eom.hwiyong${at}outlook${dot}com`,
-  developerBlog:  'https://medium.com/@telnturtle',
-  github:         'https://github.com/telnturtle',
-  location:       'S. Korea',
-  solvedAc:       'https://solved.ac/profile/telnturtle',
-  codewars:       'https://www.codewars.com/users/telnturtle',
+  developerBlog:  `https://medium.com/@telnturtle`,
+  github:         `https://github.com/telnturtle`,
+  location:       `S. Korea`,
+  solvedAc:       `https://solved.ac/profile/telnturtle`,
+  codewars:       `https://www.codewars.com/users/telnturtle`,
 }
 var [at, dot] = ['@', '.']
 ```
